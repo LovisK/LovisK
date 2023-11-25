@@ -1,13 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/LovisK" />
-&nbsp;&nbsp;&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LovisK&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-LovisK.vercel.app/api/top-langs/?username=LovisK&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+Hi, my name is Murillo, I'm 19 years old, I'm Brazilian
+I currently study digital games at São Judas
 
 
 
